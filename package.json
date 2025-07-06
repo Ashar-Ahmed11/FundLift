@@ -1,7 +1,7 @@
 {
   "name": "Akhuwat Foundation",
   "version": "0.1.0",
-  "homepage": "akhuwat-foundation.online",
+  "homepage": "https://akhuwat-foundation.online",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

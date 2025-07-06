@@ -31,6 +31,18 @@ const Crousal = () => {
     }
   };
 
+
+  useEffect(() => {
+  const carouselEl = document.querySelector('#mainCarousel');
+  if (carouselEl) {
+    const carousel = new window.bootstrap.Carousel(carouselEl, {
+      interval: 2000,
+      ride: 'carousel',
+      pause: false
+    });
+  }
+}, []);
+
   const color = "#108515";
 
   return (
