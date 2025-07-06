@@ -1,7 +1,7 @@
 {
   "name": "Akhuwat Foundation",
   "version": "0.1.0",
-  "homepage": "https://ashar-ahmed11.github.io/FundLift",
+  "homepage": "akhuwat-foundation.online",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
